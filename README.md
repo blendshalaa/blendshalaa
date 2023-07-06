@@ -8,7 +8,6 @@ Front End Developer
 
 * 🌍  I'm based in Kosovo
 * ✉️  You can contact me at [blendiishala0@gmail.com](mailto:blendiishala0@gmail.com)
-* 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on open-source front-end development projects using HTML, CSS, and JavaScript."
 
 ### Skills
